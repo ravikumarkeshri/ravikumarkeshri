@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying MCA.<br>Learning FullStack Web Development.<br>Looking for an opportunity in the Development Field.<br>
+I'm currently studying MCA.<br>Learning FullStack Web Development and DSA .<br>Looking for an opportunity in the Development Field.<br>
 
 
 ## 🌐 Socials:
