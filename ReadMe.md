@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently studying MCA.<br>Learning FullStack Web Development(MWERN) and DSA .<br>Looking for an opportunity in the Development Field.<br>
 
-# Website of Client:
+#  Client Website :
 https://blendo.in/
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-754419239/)
